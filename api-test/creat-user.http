@@ -1,0 +1,7 @@
+POST http://localhost:8080/signup
+content-type: application/json
+
+{
+  "email": "user2@gamil.com",
+  "password": "123User2"
+}
